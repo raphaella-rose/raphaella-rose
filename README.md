@@ -22,7 +22,7 @@ const Raphaella = {
 | [**Bookmark Manager**](https://github.com/raphaella-rose/bookmark-manager)   | System that lets users create, delete and update bookmarks with title and url.     | Ruby, RSpec, Capybara, Sinatra, PostgreSQL, HTML |
 | [**Dictionary App**](https://vigilant-bhabha-08e91b.netlify.app/)           | A webapp that produces definitions, pronunciations, and images of a word when searched.         | React.js, HTML, CSS, Bootstrap, API |
 
-## Education
+<h2> Education <img src="https://c.tenor.com/xjpYT3tCFVgAAAAi/%E8%BD%AC%E5%9C%88%E5%9C%88-corgi.gif" width="75" ></h2>
 
 #### Makers Academy (April 2022 - August 2022)
 

@@ -31,6 +31,21 @@ Intensive full-stack software engineering bootcamp focusing on:
 - TDD
 - Pair programming/group work
 - Agile methodologies
+- Javascript
+- Ruby
+
+#### SheCodes Basics, Plus, Responsive & React (May 2021 - August 2021)
+- React
+- Responsive Design
+- Flexbox
+- SEO
+- Github
+- Bootstrap
+- API
+- Hosting
+- HTML
+- CSS
+- JavaScript
 
 #### University of West London (year achieved_2016_)
 

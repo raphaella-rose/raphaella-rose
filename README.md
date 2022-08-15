@@ -1,19 +1,5 @@
 ### Hi there 👋
 
-<!--
-**raphaella-rose/raphaella-rose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ### A little bit about me...
 ```javascript
 const Raphaella = {
@@ -29,3 +15,9 @@ const Raphaella = {
   
 }
 ```
+## My Favourite Projects
+
+| Name                         | Description                                                                                     | Tech/tools                          |
+| ---------------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------- |
+|  [**Weather App**](https://cranky-kepler-4101d8.netlify.app/)             | A webapp that lets users search for the current weather and forecast in cities around the world.| React.js, HTML, CSS, Bootstrap, API |
+| [**Dictionary App**](https://vigilant-bhabha-08e91b.netlify.app/)           | A webapp that produces definitions, pronunciations, and images of a word when searched.         | React.js, HTML, CSS, Bootstrap, API |

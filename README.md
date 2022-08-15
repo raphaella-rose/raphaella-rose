@@ -1,4 +1,4 @@
-<h2> Hi I'm Raphaella D'Alessandro <img src="https://c.tenor.com/BJW21kXWKgQAAAAi/stefanies-hank-dachshund.gif" width="75"> </h2>
+<h2> Hi I'm <a href="https://www.linkedin.com/in/raphaella-d-alessandro-b31810197/">Raphaella D'Alessandro</a> <img src="https://c.tenor.com/BJW21kXWKgQAAAAi/stefanies-hank-dachshund.gif" width="75"> </h2>
 
 ### A little bit about me...
 ```javascript

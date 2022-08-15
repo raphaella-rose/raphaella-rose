@@ -1,4 +1,4 @@
-### Hi there 👋
+<h2> Hi I'm Raphaella D'Alessandro <img src="https://c.tenor.com/BJW21kXWKgQAAAAi/stefanies-hank-dachshund.gif" width="75"> </h2>
 
 ### A little bit about me...
 ```javascript

@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```javascript
+const Raphaella = {
+  pronouns: 'she' | 'her',
+  location: 'London',
+  interests: [ 'reading', 'long walks', 'musical-theatre' ],
+  code: {
+          frontEnd: [ HTML, CSS, Javascript, React, Bootstrap ],
+          backEnd: [ Ruby, Sinatra, MongoDB, Postgres, Git, Node, Express ],
+          testing: [ Jest, Cypress, Rspec ],
+         },
+ 
+  
+}
+```

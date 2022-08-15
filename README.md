@@ -1,4 +1,4 @@
-<h2> Hi I'm <a href="https://www.linkedin.com/in/raphaella-d-alessandro-b31810197/">Raphaella D'Alessandro</a> <img src="https://c.tenor.com/BJW21kXWKgQAAAAi/stefanies-hank-dachshund.gif" width="75"> </h2>
+<h1> Hi I'm <a href="https://www.linkedin.com/in/raphaella-d-alessandro-b31810197/">Raphaella D'Alessandro</a> <img src="https://c.tenor.com/rfBD3qlqgqoAAAAi/kawaii-anime.gif" width="75"> </h1>
 
 ### A little bit about me...
 ```javascript
@@ -13,7 +13,7 @@ const Raphaella = {
          },
 }
 ```
-## My Favourite Projects
+<h1> My Favourite Projects <img src="https://c.tenor.com/BJW21kXWKgQAAAAi/stefanies-hank-dachshund.gif" width="75" ></h1>
 
 | Name                         | Description                                                                                     | Tech/tools                          |
 | ---------------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------- |
@@ -22,7 +22,7 @@ const Raphaella = {
 | [**Bookmark Manager**](https://github.com/raphaella-rose/bookmark-manager)   | System that lets users create, delete and update bookmarks with title and url.     | Ruby, RSpec, Capybara, Sinatra, PostgreSQL, HTML |
 | [**Dictionary App**](https://vigilant-bhabha-08e91b.netlify.app/)           | A webapp that produces definitions, pronunciations, and images of a word when searched.         | React.js, HTML, CSS, Bootstrap, API |
 
-<h2> Education <img src="https://c.tenor.com/xjpYT3tCFVgAAAAi/%E8%BD%AC%E5%9C%88%E5%9C%88-corgi.gif" width="75" ></h2>
+<h1> Education <img src="https://c.tenor.com/xjpYT3tCFVgAAAAi/%E8%BD%AC%E5%9C%88%E5%9C%88-corgi.gif" width="75" ></h1>
 
 #### Makers Academy (April 2022 - August 2022)
 

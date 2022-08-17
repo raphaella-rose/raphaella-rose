@@ -1,11 +1,11 @@
-<h1> Hi I'm <a href="https://www.linkedin.com/in/raphaella-d-alessandro-b31810197/">Raphaella D'Alessandro</a> <img src="https://c.tenor.com/rfBD3qlqgqoAAAAi/kawaii-anime.gif" width="75"> </h1>
+<h1 align="center"> Hi I'm <a href="https://www.linkedin.com/in/raphaella-d-alessandro-b31810197/">Raphaella D'Alessandro</a> <img src="https://c.tenor.com/481Rw02cyNcAAAAi/%E5%90%A0%E5%8F%AB-corgi.gif" width="75" > </h1>
 
 ### A little bit about me...
 ```javascript
 const Raphaella = {
   pronouns: 'she' | 'her',
   location: 'London',
-  interests: [ 'reading', 'long walks', 'musical-theatre' ],
+  interests: [ 'reading', 'long walks', 'musical-theatre', 'gaming' ],
   code: {
           frontEnd: [ HTML, CSS, Javascript, React, Bootstrap ],
           backEnd: [ Ruby, Sinatra, MongoDB, Postgres, Git, Node, Express ],
@@ -13,7 +13,7 @@ const Raphaella = {
          },
 }
 ```
-<h1> My Favourite Projects <img src="https://c.tenor.com/BJW21kXWKgQAAAAi/stefanies-hank-dachshund.gif" width="75" ></h1>
+<h1 id="projects"> My Favourite Projects <img src="https://c.tenor.com/BJW21kXWKgQAAAAi/stefanies-hank-dachshund.gif" width="75" ></h1>
 
 | Name                         | Description                                                                                     | Tech/tools                          |
 | ---------------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------- |

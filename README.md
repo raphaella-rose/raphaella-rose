@@ -1,18 +1,32 @@
 <h1 align="center"> Hi I'm <a href="https://www.linkedin.com/in/raphaella-d-alessandro-b31810197/">Raphaella D'Alessandro</a> <img src="https://c.tenor.com/481Rw02cyNcAAAAi/%E5%90%A0%E5%8F%AB-corgi.gif" width="75" > </h1>
 
-### A little bit about me...
+<br/>
+
 ```javascript
 const Raphaella = {
   pronouns: 'she' | 'her',
   location: 'London',
-  interests: [ 'reading', 'long walks', 'musical-theatre', 'gaming' ],
+  interests: [ 'reading', 'walking my dog', 'musical-theatre', 'gaming' ],
   code: {
           frontEnd: [ HTML, CSS, Javascript, React, Bootstrap ],
-          backEnd: [ Ruby, Sinatra, MongoDB, Postgres, Git, Node, Express ],
+          backEnd: [ Ruby, Sinatra, MongoDB, PostgreSQL, Git, Node, Express ],
           testing: [ Jest, Cypress, Rspec, Capybara ],
          },
 }
 ```
+
+<h1 id="about-me"> A Little Bit About Me... <img src="https://c.tenor.com/Qy-ZzyFUiX8AAAAi/poppy-dog.gif" width="75" ></h1>
+
+My work background has been people facing roles that focus heavily on communication; whereas in my free time I prefer to do less talking, spending it reading, playing video games and seeing musical theatre shows. I explored lots of different roles since leaving college and took my favourite things from each of them when I left: 
+
+- creativity
+- structure
+- fast-paced work
+- space for learning new things 
+ 
+I found all of this in software engineering. I chose coding because it's an outlet for creativity that I haven't found in previous roles, as well as being intellectually challenging. I love the problem solving aspect as it keeps me motivated and energetic.
+
+
 <h1 id="projects"> My Favourite Projects <img src="https://c.tenor.com/BJW21kXWKgQAAAAi/stefanies-hank-dachshund.gif" width="75" ></h1>
 
 | Name                         | Description                                                                                     | Tech/tools                          |

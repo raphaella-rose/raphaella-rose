@@ -9,7 +9,7 @@ const Raphaella = {
   code: {
           frontEnd: [ HTML, CSS, Javascript, React, Bootstrap ],
           backEnd: [ Ruby, Sinatra, MongoDB, Postgres, Git, Node, Express ],
-          testing: [ Jest, Cypress, Rspec ],
+          testing: [ Jest, Cypress, Rspec, Capybara ],
          },
 }
 ```
